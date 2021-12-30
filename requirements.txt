@@ -1,0 +1,9 @@
+geopandas
+matplotlib
+osmnx
+networkx
+numpy
+pandas
+shapely
+palettable
+tqdm
